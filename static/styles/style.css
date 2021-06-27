@@ -25,7 +25,7 @@ header {
     position: fixed;
     width: 100%;
     height: var(--heading-height);
-    
+
 }
 
 /* Create angled background with 'before' pseudo-element */
@@ -40,9 +40,9 @@ header::before {
     height: calc(var(--heading-height) + 10em);
     z-index: -1;
     transform: skewY(-3.5deg);
-    background: 
+    background:
         linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),
-        url(https://images.unsplash.com/photo-1587854692152-cbe660dbde88?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80) no-repeat center,
+        url(https://images-ext-2.discordapp.net/external/0mqIBeZ37ocwDY9I3Ktwi777qgYlfD3jnWQUY9wjOdc/https/static.wixstatic.com/media/50a088_7bc7bb3af43f43e98e149a76f6f9846a~mv2.png?width=1050&height=701) no-repeat center,
         linear-gradient(#4e4376, #2b5876);
     background-size: cover;
     
