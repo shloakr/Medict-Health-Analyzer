@@ -13,7 +13,8 @@ Use these commands to run
 -------------------------------------------------------------------------------------------------
 
 If that does not work, you can also clone the repos like above
-and pip install the following packages (or ```pip install -r /path/to/requirements.txt```):
+and then pip install the following packages
+(or ```pip install -r /path/to/requirements.txt```):
 1) ```scikit-learn```
 2) ```pandas```
 3) ```numpy```
