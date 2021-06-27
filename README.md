@@ -1,5 +1,7 @@
 # Medict-Health-Analyzer
 
+Note: MUST USE PYTHON 32 BIT (preferably 3.9.0)
+
 Use these commands to run
 1) go to the folder you want this to run in 
 2) ```git clone https://github.com/shloakr/Medict-Health-Analyzer.git```
