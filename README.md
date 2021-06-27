@@ -20,7 +20,7 @@ and then pip install the following packages
 3) ```numpy```
 4) ```flask```
 
-Then run app.py but typing the following in cmd:
+Then run app.py by typing the following in cmd:
 ```C:\Users\{user}\AppData\Local\Programs\Python\Python38-32\python.exe C:/path/to/app.py```
 Make sure you call the full path to python.exe or it may cause errors.
 
