@@ -9,4 +9,3 @@ Use these commands to run
 5) ```pip install -r /path/to/requirements.txt```
 6) ```python app.py```
 7) run ```http://localhost:5000/``` on your browser (preferably chrome) 
-8)
