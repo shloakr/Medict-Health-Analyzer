@@ -1,6 +1,6 @@
 # Medict-Health-Analyzer
 
-Note: MUST USE PYTHON 32 BIT ON WINDOWS (preferably 3.9.0)
+Note: MUST USE PYTHON 32 BIT (preferably 3.9.0 and on Windows)
 
 Use these commands to run
 1) go to the folder you want this to run in 
