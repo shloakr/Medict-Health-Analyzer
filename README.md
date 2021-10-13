@@ -1,4 +1,7 @@
 # Medict-Health-Analyzer
+<img width="1420" alt="Screenshot 2021-10-13 at 6 36 02 PM" src="https://user-images.githubusercontent.com/70055735/137138398-fe5b5385-cdc3-492f-b34e-dd527bc93b9b.png">
+<img width="1425" alt="Screenshot 2021-10-13 at 6 35 45 PM" src="https://user-images.githubusercontent.com/70055735/137138430-1474a2be-ff92-496c-8134-23448516b40e.png">
+
 
 
 
